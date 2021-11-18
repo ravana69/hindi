@@ -12,13 +12,13 @@ const sources = [
   "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8", // Vividh Bharati
   "https://prclive4.listenon.in/Ghazal", // Radio City Ghazal
   "https://streams.radio.co/s69032f19e/listen", // Radio Selfie
-  "https://21293.live.streamtheworld.com/BIGRADIO_S01.mp3", // Bro Big Radio
+  "https://22723.live.streamtheworld.com/BIGRADIO_S01.mp3", // Bro Big Radio
   "https://prclive4.listenon.in/Freedom", // Radio City Freedom
   "https://prclive4.listenon.in/Electronica", // Radio City Electronica
   "https://prclive4.listenon.in/Metal", // Radio City Metal
   "hhttps://prclive4.listenon.in/HipHop", // Radio City Hip Hop
   "https://prclive4.listenon.in/Dance", // Radio City Dance
-  "https://air.pc.cdn.bitgravity.com/air/live/pbaudio139/chunklist.m3u8" // AIR Ragam
+  "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps23389_207524.aac" // AIR Ragam
 ];
 
 const labels = [
@@ -35,13 +35,13 @@ const labels = [
   [ "Vividh Bharati", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"],
   [ "Radio City Ghazal", "https://prclive4.listenon.in/Ghazal"],
   [ "Radio Selfie", "https://streams.radio.co/s69032f19e/listen"],
-  [ "Bro Big Radio", "https://21293.live.streamtheworld.com/BIGRADIO_S01.mp3"],
+  [ "Bro Big Radio", "https://22723.live.streamtheworld.com/BIGRADIO_S01.mp3"],
   [ "Radio City Freedom", "https://prclive4.listenon.in/Freedom"],
   [ "Radio City Electronica", "https://prclive4.listenon.in/Electronica"],
   [ "Radio City Metal", "https://prclive4.listenon.in/Metal"],
   [ "Radio City Hip Hop", "https://prclive4.listenon.in/HipHop"],
   [ "Radio City Dance", "https://prclive4.listenon.in/Dance"],
-  [ "AIR Ragam", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio139/chunklist.m3u8"]
+  [ "AIR Ragam", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps23389_207524.aac"]
 ];
 
 let playingIndex = 0; // current radio

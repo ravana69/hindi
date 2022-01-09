@@ -18,7 +18,7 @@ const sources = [
   "https://prclive4.listenon.in/Metal", // Radio City Metal
   "hhttps://prclive4.listenon.in/HipHop", // Radio City Hip Hop
   "https://prclive4.listenon.in/Dance", // Radio City Dance
-  "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps23389_207524.aac" // AIR Ragam
+  "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps.m3u8" // AIR Ragam
 ];
 
 const labels = [
@@ -41,7 +41,7 @@ const labels = [
   [ "Radio City Metal", "https://prclive4.listenon.in/Metal"],
   [ "Radio City Hip Hop", "https://prclive4.listenon.in/HipHop"],
   [ "Radio City Dance", "https://prclive4.listenon.in/Dance"],
-  [ "AIR Ragam", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps23389_207524.aac"]
+  [ "AIR Ragam", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps.m3u8"]
 ];
 
 let playingIndex = 0; // current radio

@@ -12,7 +12,7 @@ const sources = [
   "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8", // Vividh Bharati
   "https://prclive4.listenon.in/Ghazal", // Radio City Ghazal
   "https://streams.radio.co/s69032f19e/listen", // Radio Selfie
-  "https://22723.live.streamtheworld.com/BIGRADIO_S01.mp3", // Bro Big Radio
+  "http://sc-bb.1.fm:8017/", // Big FM
   "https://prclive4.listenon.in/Freedom", // Radio City Freedom
   "https://prclive4.listenon.in/Electronica", // Radio City Electronica
   "https://prclive4.listenon.in/Metal", // Radio City Metal
@@ -35,7 +35,7 @@ const labels = [
   [ "Vividh Bharati", "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"],
   [ "Radio City Ghazal", "https://prclive4.listenon.in/Ghazal"],
   [ "Radio Selfie", "https://streams.radio.co/s69032f19e/listen"],
-  [ "Bro Big Radio", "https://22723.live.streamtheworld.com/BIGRADIO_S01.mp3"],
+  [ "Big FM", "http://sc-bb.1.fm:8017/"],
   [ "Radio City Freedom", "https://prclive4.listenon.in/Freedom"],
   [ "Radio City Electronica", "https://prclive4.listenon.in/Electronica"],
   [ "Radio City Metal", "https://prclive4.listenon.in/Metal"],

@@ -18,6 +18,7 @@ const sources = [
   "https://prclive4.listenon.in/Metal", // Radio City Metal
   "hhttps://prclive4.listenon.in/HipHop", // Radio City Hip Hop
   "https://prclive4.listenon.in/Dance", // Radio City Dance
+  "https://radioindia.net/radio/hungamaghazal/icecast.audio", // Hungama Ghazal
   "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps.m3u8" // AIR Ragam
 ];
 
@@ -41,6 +42,7 @@ const labels = [
   [ "Radio City Metal", "https://prclive4.listenon.in/Metal"],
   [ "Radio City Hip Hop", "https://prclive4.listenon.in/HipHop"],
   [ "Radio City Dance", "https://prclive4.listenon.in/Dance"],
+  [ "Hungama Ghazal", "https://radioindia.net/radio/hungamaghazal/icecast.audio"],
   [ "AIR Ragam", "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio13964kbps.m3u8"]
 ];
 
